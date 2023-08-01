@@ -62,7 +62,7 @@ def create_obj_user():
                  strict_slashes=False)
 @swag_from('documentation/user/put.yml', methods=['PUT'])
 def post_user(user_id):
-    """  """
+    """  post user"""
     if not request.get_json():
         return make_response(jsonify({"error": "Not a JSON"}), 400)
     obj = storage.get(User, user_id)
