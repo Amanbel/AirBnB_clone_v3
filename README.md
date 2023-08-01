@@ -154,9 +154,10 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Amanuel Belachew - [Github](https://github.com/Amanbel)
-Abenezer Anito- [Github](https://github.com/jhuang10123) 
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Abenezer Anito - [https://github.com/aanito/]
 
-Second part of Airbnb: Amanuel Belachew
+Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
